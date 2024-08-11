@@ -1,0 +1,34 @@
+td {
+    border-collapse: separate;
+    border: 4px solid #9f68af;
+    padding: 10px;
+    margin: 10px;
+
+    width: 100px;
+    height: 100px;
+
+    text-align: center;
+    font-family: "Century Gothic", serif;
+    font-size: 50px;
+
+    empty-cells: show;
+
+    background-color: #e5b8ee;
+}
+
+body {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+body .button {
+    background-color: #e5b8ee;
+    border: 4px solid #9f68af;
+    border-radius: 30px;
+
+    text-align: center;
+    font-size: 40px;
+    font-family: "Century Gothic", sans-serif;
+}
+
